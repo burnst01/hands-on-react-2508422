@@ -1,5 +1,4 @@
 import React, {Component, useState } from 'react';
-import Support from './components/Support';
 import ListCast from './components/ListCast';
 import Modals from './components/Modals';
 
